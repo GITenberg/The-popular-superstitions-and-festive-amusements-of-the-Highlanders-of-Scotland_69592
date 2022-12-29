@@ -1,11 +1,16 @@
 _repo: The-popular-superstitions-and-festive-amusements-of-the-Highlanders-of-Scotland_69592
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69592-h/images/cover.jpg
 creator:
   author:
     agent_name: Stewart, William Grant
     gutenberg_agent_id: '55334'
     url: http://www.gutenberg.org/2009/agents/55334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69592#The-popular-superstitions-and-festive-amusements-of-the-Highlanders-of-Scotland
 gutenberg_issued: '2022-12-20'
 identifiers:
   gutenberg: '69592'
